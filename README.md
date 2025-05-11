@@ -71,3 +71,4 @@ This is achieved by knowing the total number of hits to the website. We know the
 
 One final note is that the backend model has been developed so that cloud metrics data can be used. However, it’s possible to replace this data with real world measurements by instrumenting your servers with a tool such as Cardamon Core. Instrumentation provides realtime metrics of your backend infrastructure whilst the frontend is being measured. This end-to-end measurement is obviously preferred but requires software development work to set up.
 
+We are currently working on publishing a full academic whitepaper with all the granular mathematics, if you want to see the latest draft please contact us directly hello@rootandbranch.io
